@@ -1,0 +1,6 @@
+framework module SocketDemo {
+  umbrella header "SocketDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

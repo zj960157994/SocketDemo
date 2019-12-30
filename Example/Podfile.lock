@@ -1,0 +1,23 @@
+PODS:
+  - CocoaAsyncSocket (7.6.3)
+  - SocketDemo (0.1.0)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket
+  - SocketDemo (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+
+EXTERNAL SOURCES:
+  SocketDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: eafaa68a7e0ec99ead0a7b35015e0bf25d2c8987
+  SocketDemo: 5c5ca5815b61ca49348b2d7655f81738ec9a80aa
+
+PODFILE CHECKSUM: 407a94ac3b41f02f0901b1bf93b7bd3b375d9d89
+
+COCOAPODS: 1.9.0.beta.2
